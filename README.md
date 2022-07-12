@@ -1,1 +1,1 @@
-# IBM_Sample_Project_jobPortal
+# job-portal-app
